@@ -1,6 +1,5 @@
 kafka:
-  bootstrap-server: localhost:9094
+  bootstrap-server: localhost:9093
   topic: keyboardInput
-
 server:
-  port: 8080
+  port: 8082
